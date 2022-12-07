@@ -11,6 +11,6 @@ This first step into the complete modelisation of rugby behaviours is fully desc
 
 [IA310_Project_SMA_Alberic.pdf](https://github.com/Adefoucauld/Multi-agent-Rugby/files/10179219/IA310_Project_SMA_Alberic.pdf)
 
-The newt steps depicted in the report will be implemented in the next months.
+The next steps depicted in the report will be implemented in the next months.
 
 Enjoy !
